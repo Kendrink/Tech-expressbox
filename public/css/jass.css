@@ -1,0 +1,56 @@
+
+header {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+  background-color: #fff;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #ffff;
+  color: #040404;
+  padding: 16px;
+  margin-bottom: 5px;
+}
+
+#blogName {
+  color: #0e1404;
+}
+
+main {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: -5px;
+  background-color:grey;
+}
+
+
+#titleInput,
+  #bodyInput,
+  #comment,
+  #email-login,
+  #password-login,
+  #name-signup,
+  #email-signup,
+  #password-signup {
+    background-color:black;
+  }
+
+  .card-header {
+    background-color: grey;
+  }
+  
+  .card-body {
+    background-color: grey;
+  }
+  
+  .card {
+    background-color: #eff0f4;
+  }
+  
+  .card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
+    transition: all 0.3s ease;
+  }

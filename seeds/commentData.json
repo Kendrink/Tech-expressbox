@@ -1,0 +1,20 @@
+[
+    {
+      "comment_body": "I have alawys loved react",
+      "date_created": "june 8, 2012",
+      "user_id": 2,
+      "post_id": 1
+    },
+    {
+      "comment_body": "oh really!",
+      "date_created": "may 9, 2023",
+      "user_id": 3,
+      "post_id": 1
+    },
+    {
+      "comment_body": "i used to get confused as well",
+      "date_created": "novemember 21, 2022",
+      "user_id": 3,
+      "post_id": 2
+    }
+    ]

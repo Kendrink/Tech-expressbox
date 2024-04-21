@@ -1,0 +1,20 @@
+[
+    {
+      "title": "why is react so popular",
+      "description": ".One of the primary reasons for React's popularity is its ease of use. React uses a component-based architecture, which makes it easy to break down complex user interfaces into smaller, reusable parts. Developers can easily build and maintain these components, which saves time and reduces the risk of errors",
+      "date_created": "oct 9 2019",
+      "user_id": 1
+    },
+    {
+      "title": "is aws the largest cloud provider?",
+      "description": "Yes, Amazon Web Services (AWS) is the largest cloud service provider (CSP). In the fourth quarter of 2023, AWS had a 31% market share of the global cloud infrastructure market, while Microsoft Azure had a 23% market",
+      "date_created": "oct 9 2020",
+      "user_id": 2
+    },
+    {
+      "title": "Is Node.js backend or frontend?",
+      "description": "Node. js is sometimes misunderstood by developers as a backend framework that is exclusively used to construct servers. This is not the case; Node. js can be used on the frontend as well as the backend.",
+      "date_created": "oct 9 2021",
+      "user_id": 3
+    }
+  ]
